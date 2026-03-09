@@ -3,6 +3,10 @@
 # ✨ V-Lucent
 ### **The Transparent, Screen-Aware 3D AI Companion**
 
+[<img src="local-companion/public/media/hero/Hero1.png" alt="V-Lucent companion floating above desktop" width="30%"/>](local-companion/public/media/hero/Hero1.png)
+[<img src="local-companion/public/media/hero/Hero2.png" alt="Chat interface and controls" width="30%"/>](local-companion/public/media/hero/Hero2.png)
+[<img src="local-companion/public/media/hero/Hero3.png" alt="3D avatar reacting in real time" width="30%"/>](local-companion/public/media/hero/Hero3.png)
+
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
 [![Svelte](https://img.shields.io/badge/Svelte-5.0-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![Rust](https://img.shields.io/badge/Rust-Stable-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
