@@ -1,0 +1,37 @@
+# Project documentation kept locally
+ARCHITECTURE.md
+PROXY_SETUP.md
+OPENCLAW_INSTRUCTIONS.md
+
+# Legacy archives (kept outside of repo)
+legacy/
+
+# Environment / secrets
+.env
+.env.*
+
+# Node / frontend outputs
+node_modules/
+**/node_modules/
+dist/
+build/
+.svelte-kit/
+.vite/
+.parcel-cache/
+*.log
+*.tmp
+
+# Tauri / Rust build artifacts
+target/
+**/target/
+src-tauri/target/
+
+# IDE / OS miscellany
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python virtual envs (occasionally used for tooling)
+*.venv/
+venv/

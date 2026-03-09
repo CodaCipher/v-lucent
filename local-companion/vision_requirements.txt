@@ -1,0 +1,14 @@
+# Dependencies for screen_vision_service.py (Windows, CUDA preferred)
+fastapi==0.115.6
+uvicorn==0.32.0
+mss==9.0.1
+Pillow==10.4.0
+# DirectX fallback for some games/DRM
+dxcam
+
+# Moondream2 client (adjust if using a local fork/binary name)
+moondream
+
+# Torch CUDA (pick version matching your installed CUDA toolchain)
+# Example for CUDA 12.1 wheels:
+# pip install torch==2.4.1+cu121 --index-url https://download.pytorch.org/whl/cu121

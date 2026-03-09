@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300">
+  <!-- Body -->
+  <ellipse cx="100" cy="260" rx="45" ry="40" fill="#4a3f6b"/>
+  
+  <!-- Neck -->
+  <rect x="88" y="195" width="24" height="25" rx="5" fill="#fce4d6"/>
+  
+  <!-- Head -->
+  <ellipse cx="100" cy="140" rx="55" ry="65" fill="#fce4d6"/>
+  
+  <!-- Hair back -->
+  <ellipse cx="100" cy="120" rx="60" ry="70" fill="#2d1b4e"/>
+  
+  <!-- Face -->
+  <ellipse cx="100" cy="145" rx="48" ry="55" fill="#fce4d6"/>
+  
+  <!-- Hair front -->
+  <path d="M45 110 Q60 60 100 55 Q140 60 155 110 Q150 85 130 80 Q115 75 100 78 Q85 75 70 80 Q50 85 45 110Z" fill="#2d1b4e"/>
+  
+  <!-- Hair bangs -->
+  <path d="M55 115 Q65 90 80 95 L75 120Z" fill="#3d2b5e" opacity="0.8"/>
+  <path d="M85 100 Q95 80 110 85 L105 115Z" fill="#3d2b5e" opacity="0.8"/>
+  <path d="M120 100 Q130 82 145 115 L135 120Z" fill="#3d2b5e" opacity="0.8"/>
+  
+  <!-- Hair sides -->
+  <path d="M42 120 Q35 160 45 200 Q50 180 55 160 Q50 140 45 120Z" fill="#2d1b4e"/>
+  <path d="M158 120 Q165 160 155 200 Q150 180 145 160 Q150 140 155 120Z" fill="#2d1b4e"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="78" cy="148" rx="12" ry="14" fill="white"/>
+  <ellipse cx="122" cy="148" rx="12" ry="14" fill="white"/>
+  <ellipse cx="80" cy="150" rx="8" ry="10" fill="#6c5ce7"/>
+  <ellipse cx="124" cy="150" rx="8" ry="10" fill="#6c5ce7"/>
+  <ellipse cx="81" cy="148" rx="4" ry="5" fill="#2d1b4e"/>
+  <ellipse cx="125" cy="148" rx="4" ry="5" fill="#2d1b4e"/>
+  <!-- Eye highlights -->
+  <ellipse cx="84" cy="145" rx="2.5" ry="3" fill="white"/>
+  <ellipse cx="128" cy="145" rx="2.5" ry="3" fill="white"/>
+  
+  <!-- Eyebrows -->
+  <path d="M65 132 Q78 126 90 132" stroke="#2d1b4e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M110 132 Q122 126 135 132" stroke="#2d1b4e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Mouth (small smile) -->
+  <path d="M90 172 Q100 180 110 172" stroke="#e17055" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Blush -->
+  <ellipse cx="68" cy="168" rx="8" ry="5" fill="#fab1a0" opacity="0.5"/>
+  <ellipse cx="132" cy="168" rx="8" ry="5" fill="#fab1a0" opacity="0.5"/>
+  
+  <!-- Collar -->
+  <path d="M70 220 L100 240 L130 220" stroke="white" stroke-width="3" fill="none"/>
+</svg>

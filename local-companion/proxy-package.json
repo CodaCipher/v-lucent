@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-proxy",
+  "version": "1.0.0",
+  "description": "OpenClaw HTTP Proxy for Companion App",
+  "main": "proxy-server.js",
+  "scripts": {
+    "start": "node proxy-server.js",
+    "dev": "node proxy-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
