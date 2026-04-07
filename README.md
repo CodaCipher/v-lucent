@@ -114,21 +114,20 @@ Build artifacts land in `local-companion/src-tauri/target/release/`. Bundle your
 
 ## 🗺️ Roadmap
 
-- **v1.0** – Tauri 2 / Svelte 5 core engine
-- **v1.1** – Real-time viseme & lip-sync polish
-- **v1.2** – Multi-provider routing + proactive vision loop
-- **v2.0** – Twitch/YouTube live mode
-- **v2.1** – Long-term memory (vector DB)
-- **v2.2** – macOS & Linux builds
+- **v0.4** – Tauri 2 / Svelte 5 core engine
+- **v0.5** – Long-term memory (vector DB)
+- **v0.6** – Real-time viseme & lip-sync polish
+- **v0.7** – Multi-provider routing + proactive vision loop
+- **v0.8** – Twitch/YouTube live mode
 
 ---
 
 ## 🤝 Contributing
 
 1. Fork the repo
-2. Create a feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m "Add AmazingFeature"`
-4. Push to the branch: `git push origin feature/AmazingFeature`
+2. Create a feature branch: `git checkout -b feature/NewFeature`
+3. Commit your changes: `git commit -m "Add Feature"`
+4. Push to the branch: `git push origin feature/NewFeature`
 5. Open a Pull Request
 
 ---
