@@ -135,9 +135,8 @@ Build artifacts land in `local-companion/src-tauri/target/release/`. Bundle your
 
 <div align="center">
 
-Let's build the future of desktop companions. 🚀
 
-**Licensed under MIT • Built with ❤️ by CodaCipher**
+**Licensed under MIT • Built by CodaCipher**
 
 ![Rainbow Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
